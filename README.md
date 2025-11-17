@@ -105,18 +105,6 @@ rl_curriculum_bench/
 
 MIT License
 
-## Citation
-
-If you use this library in your research, please cite:
-```bibtex
-@software{rl_curriculum_bench,
-  title={RL Curriculum Bench: A Benchmark Suite for Curriculum Learning in MARL},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/rl-curriculum-bench}
-}
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
